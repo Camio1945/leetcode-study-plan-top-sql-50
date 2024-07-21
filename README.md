@@ -26,6 +26,8 @@ LeetCode 学习计划 - [高频 SQL 50 题（基础版）](https://leetcode.cn/s
 
 **刷题建议**：
 
+​	注释中给的是英文站的链接，如果访问速度慢的话，可以把链接中的 `leetcode.com` 改成 `leetcode.cn` 。
+
 ​	**A 计划**：进入 [sql-without-solutions](./sql-without-solutions) 文件夹，逐条写下你自己的答案，并提交到 LeetCode。
 
 ​	**B 计划**：进入 [sql-with-solutions](./sql-without-solutions) 文件夹，学习参考答案。
